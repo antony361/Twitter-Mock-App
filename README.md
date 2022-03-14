@@ -23,4 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/CTzSKZkauQ' title='Logging n' width='' alt='Logging In' />
+
+<img src='https://recordit.co/vE62W2vsxk' title='Stay Logged In' width='' alt='Stay Logging In' />
+
+<img src='https://recordit.co/3d9zRVpVFU' title='Refresh and Infinite Scroll' width='' alt='Refresh and Infinite Scroll' />
